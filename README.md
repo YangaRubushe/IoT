@@ -1,2 +1,2 @@
-# mysite.github.io
-draft code for my IFS website
+# IoT Website
+draft code for my IoT website
